@@ -1,4 +1,5 @@
 import math
+import time
 
 class Joint:
     def __init__(self, encoder_resolution = 14, master_position=9569, gear_ratio = 1, offset = 0, dir = 0):

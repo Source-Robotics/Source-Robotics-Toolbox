@@ -17,8 +17,8 @@ setup(
     author_email="<info@source-robotics.com>",
     license = "MIT",
     project_urls = {
-        "Documentation": "https://github.com/PCrnjak/Source-Robotics-Toolbox",
-        "Source": "https://github.com/PCrnjak/Source-Robotics-Toolbox",
+        "Documentation": "https://github.com/Source-Robotics/Source-Robotics-Toolbox",
+        "Source": "https://github.com/Source-Robotics/Source-Robotics-Toolbox",
     },
     description=DESCRIPTION,
     long_description_content_type="text/markdown",

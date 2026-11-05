@@ -9,4 +9,4 @@ Note: This is a simplified explanation. The algorithm is a bit more complex and 
 
 As the gear reduction ratio increases, this method becomes less effective. However, it works well for ratios up to 15:1.
 
-Examples can be found [here!](https://github.com/PCrnjak/Source-Robotics-Toolbox/tree/main/Examples)
+Examples can be found [here!](https://github.com/Source-Robotics/Source-Robotics-Toolbox/tree/main/Examples)
